@@ -95,11 +95,10 @@ ul li::before{
 
 
 .delete{
-        
-    top: 5px;
+    /* top: 5px; */
     width: 40px;
     height: 40px;
-    font-size: 0.75rem;
+    font-size: 0.40rem;
     color: #faf4f4;
     line-height: 10px;
     text-align: center;
@@ -107,6 +106,7 @@ ul li::before{
     border: 1px solid rgb(228, 220, 220);
     background-color:rgb(219, 109, 195) ;
      margin-left: 40px;
+     margin-top: 5px;
 }
 .done{
     position: absolute;
@@ -114,7 +114,7 @@ ul li::before{
     top: 15px;
     width: 40px;
     height: 40px;
-    font-size: 0.75rem;
+    font-size: 0.40rem;
     color: #fdf7f7;
     line-height: 10px;
     text-align: center;

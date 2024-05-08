@@ -105,7 +105,7 @@ export default function To() {
 
            
             <br /><br />
-            <button onClick={markAsDoneAll} className="mark">All Done <IoCheckmarkDoneCircleSharp size={25}/></button>
+            <button onClick={markAsDoneAll} className="mark">All Done <IoCheckmarkDoneCircleSharp size={20}/></button>
         </div>
     );
 }
